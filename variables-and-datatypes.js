@@ -57,6 +57,10 @@ console.log('what is the color of anObject ', anObject.color);
 console.log('what is the size of anObject ', anObject.size);
 console.log('what is the toppings on anObject ', anObject['toppings']);
 
+//objects are ER'WHERE! we shall return.
+//booleans
+const yes = true;
+const no = false;
 
 
 
