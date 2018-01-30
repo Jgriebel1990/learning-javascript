@@ -31,6 +31,27 @@ console.log('aNumber: ', aNumber);
 console.log('anotherNumber: ', anotherNumber);
 console.log('type of aNumber: ', typeof aNumber);
 console.log('type of anotherNumber: ', typeof anotherNumber);
+//Numbers will come back up. There is more to know...
+//Arrays
+const anArray = [1, 2, 3, 4]; //an array of numbers, you can come back and add numbers to an Array
+const aStringArray = ['Cheese', 'Bacon', 'Eggs']; //an array of strings
+console.log('anArray: ', anArray);
+console.log('aStringArray: ', aStringArray);
+console.log('how many elements are in anArray? ', anArray.length);
+//the '.' after the anArray(the variable) accesses the porperty "length" of the anArray
+//
+console.log("what is the type of anArray", typeof anArray);
+
+
+
+
+
+
+
+
+
+
+
 
 
 
