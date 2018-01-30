@@ -61,6 +61,8 @@ console.log('what is the toppings on anObject ', anObject['toppings']);
 //booleans
 const yes = true;
 const no = false;
+// const yes = 3; //BAD!!! cannot use a reserved word for a variable
+
 
 
 
